@@ -1,0 +1,24 @@
+# Project TODO
+
+- [x] Research comprehensive history of bottled water in the United States
+- [x] Gather high-quality images related to bottled water history
+- [x] Design website layout and visual style
+- [x] Implement homepage with hero section
+- [x] Create timeline section showing key historical milestones
+- [x] Add detailed content sections about bottled water history
+- [x] Implement responsive navigation
+- [x] Add footer with relevant information
+- [x] Optimize images and assets
+- [x] Test website across different devices
+- [x] Add dedicated section about Fred Sipper "The Bottled Water King"
+- [x] Include Fred Sipper's photos and story from Irving's Food Center
+- [x] Highlight Fred Sipper's innovative marketing programs (Evian Waiter Program, etc.)
+- [x] Update Fred Sipper's current consulting information (beverage companies, distributors, restaurants - not Beverage Universe)
+- [x] Add photo of Fred Sipper and Jack Maguire together with note about their friendship
+- [x] Add 1985 NY Times article content about NYC water crisis and Fred's business surge
+- [x] Add 1979 NY Times article showing Irving's Food Center operations during gas crisis
+- [x] Add Clearly Canadian, Orbitz, Martinelli's, Orangina, Welch's, Old Tyme Soda, SOHO Soda, Nice and Natural to distributed brands
+- [x] Add Saratoga and Deer Park to bottled water brands list
+- [x] Add search/filter feature for brands by category
+- [x] Create "Then & Now" comparison section with vintage vs modern bottle designs
+- [x] Create downloadable PDF timeline of Fred's career milestones
